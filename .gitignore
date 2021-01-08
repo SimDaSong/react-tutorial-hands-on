@@ -24,3 +24,6 @@ yarn-error.log*
 
 # setting
 .idea
+
+# optional eslint cache
+.eslintcache
